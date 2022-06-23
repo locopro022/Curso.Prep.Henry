@@ -1,0 +1,44 @@
+h1 
+        {color: darkgoldenrod;
+        display: flex;
+        justify-content: center;
+        height: 40px;
+        width: 100%;
+        text-shadow: 3px 3px 1px black;
+        font-size: 100px;}
+
+h3, h4 
+        {color: rgb(190, 190, 190);
+        display: flex;
+        justify-content: center;
+        top: 15px;
+        height: 40px;
+        width: 100%;
+        font-size: 50px;}
+
+
+#thirdDiv
+         { width: 410; 
+        height: 700; 
+        background-color: rgb(77, 77, 77);
+        padding: 15px;
+        border: 15px solid black;
+        justify-content: center;}
+
+#spanId 
+        {font-size: 50px;
+        color: rgb(6, 153, 1);
+        margin: 10px; }
+
+#links
+        {font-size: 28px;
+        color: darkred;}
+
+#logo { position: fixed;
+        bottom: 0;
+        right: 0;
+        ;}
+
+body {background: url(../../Img-Arch-Extras/homework/FG+base+para+logos+rock+food2.jpg);
+        position: static
+        ;}
