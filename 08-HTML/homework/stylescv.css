@@ -1,0 +1,22 @@
+#logo { position: fixed;
+        bottom: 0;
+        right: 0;
+        ;}
+
+body {background: url(../../Img-Arch-Extras/homework/fondo-abstracto-mecanismo-rueda-engranaje_41981-300.webp);
+        position: static
+        ;}
+ #foto {margin:0px
+        }
+
+ #principal {border: solid 2px;
+            padding: 10px;
+            width: 90%;
+            margin: 0 auto;
+            font-size: 18px;;}
+
+legend      {font-weight: bold;
+            color:rgb(0, 0, 0);}
+
+h1          {font-size: 50px;
+            color: darkred;}
